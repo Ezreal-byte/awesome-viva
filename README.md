@@ -24,7 +24,7 @@ English | [简体中文](README.zh-CN.md)
 
 ## Applications
 
-Applications that ship on Viva and keep their source public.
+Applications built with Viva whose source is public.
 
 - [Motty](https://github.com/t8y2/motty) - An SSH workspace with a terminal, SFTP, port forwarding, remote desktops and an AI assistant in one native window. `macOS` `Windows` `Linux` · Apache-2.0
 - [Peck](https://github.com/eryajf/Peck) - A macOS menu bar assistant that inspects quarantine and code-signing state, then opens a blocked app after you confirm. `macOS` · Apache-2.0
@@ -55,7 +55,7 @@ Applications that ship on Viva and keep their source public.
 
 - [viva command](https://github.com/vivaui/viva/tree/main/cmd/viva) - Builds, packages, initializes and live-reloads applications; none of it is linked into a release binary.
 - [Homebrew tap](https://github.com/vivaui/homebrew-tap) - `brew install vivaui/tap/viva` on macOS and Linux.
-- [Scoop manifests](https://github.com/vivaui/homebrew-tap) - The same tap holds the Windows manifests: `scoop bucket add vivaui ...`.
+- [Scoop manifests](https://github.com/vivaui/homebrew-tap) - The same repository holds the Windows manifests: `scoop bucket add vivaui ...`.
 - [Headless testing](https://vivaui.dev/en/docs/testing/) - The `vivahead` build tag and the harness that never opens a window.
 - [Coding-agent skill](https://github.com/vivaui/viva/tree/main/docs/skills/building-with-viva) - A skill file that teaches an agent the programming model and the headless workflow.
 

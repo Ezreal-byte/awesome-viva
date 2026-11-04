@@ -23,7 +23,7 @@ WebView，不捆绑浏览器引擎，也没有附加运行时。应用用 Go 编
 
 ## 应用
 
-用 Viva 构建、已经发布且源码公开的应用。
+用 Viva 构建、源码公开的应用。
 
 - [Motty](https://github.com/t8y2/motty) - 把终端、SFTP、端口转发、远程桌面和 AI 助手放进同一个原生窗口的 SSH 工作台。`macOS` `Windows` `Linux` · Apache-2.0
 - [Peck](https://github.com/eryajf/Peck) - macOS 菜单栏助手：检查隔离标记与签名状态，等你确认后再打开被系统拦下的应用。`macOS` · Apache-2.0
