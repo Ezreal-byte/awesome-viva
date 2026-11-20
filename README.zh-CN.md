@@ -25,6 +25,7 @@ WebView，不捆绑浏览器引擎，也没有附加运行时。应用用 Go 编
 
 用 Viva 构建、源码公开的应用。
 
+- [GoIM](https://github.com/Ezreal-byte/GoIM) - 支持自动发现同一局域网内的设备，可单聊、群聊和共享文件。`macOS` `Windows` `Linux` · MIT
 - [Motty](https://github.com/t8y2/motty) - 把终端、SFTP、端口转发、远程桌面和 AI 助手放进同一个原生窗口的 SSH 工作台。`macOS` `Windows` `Linux` · Apache-2.0
 - [Peck](https://github.com/eryajf/Peck) - macOS 菜单栏助手：检查隔离标记与签名状态，等你确认后再打开被系统拦下的应用。`macOS` · Apache-2.0
 - [听澜（Tinglan）](https://github.com/talongao/tinglan) - 非官方、实验性的华为音乐客户端，带原生音乐库、歌词、12 款主题和可悬浮的播放器。`macOS` · AGPL-3.0
